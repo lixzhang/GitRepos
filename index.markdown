@@ -1,6 +1,6 @@
 # Repositories
 
-## GitHub - Tech Dev
+## GitHub
 <details>
 <summary> Click to expand </summary>
 
@@ -17,7 +17,7 @@
 
 </details>
 
-## GitLab - Tech Dev
+## GitLab
 - **data-science-utils.** *Lixun Zhang.* ([Repo](https://gitlab.eng.roku.com/data-analytics/data-science-utils)) (Type **Public**) (Stars **1**)
     - Query templates
     - Pull data from and save data to hive
@@ -31,6 +31,7 @@
 ## Local - At Work
 - **omni_reach_optimizer.** *Lixun Zhang.* 
     - Implementation of the omni reach algorithms
-
+- **streamlit-project.** *Lixun Zhang.* 
+    - Streamlit project with plots for QA project
 
 
