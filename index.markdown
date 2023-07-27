@@ -1,6 +1,6 @@
 # Repositories
 
-## GitHub
+## GitHub - Technical Development
 <details>
 <summary> Click to expand </summary>
 
@@ -14,17 +14,19 @@
     - Summary of my solutions to Leetcode Python and SQL questions
 </details>
 
-## GitHub - Tech Dev
-<details>
-<summary> Click to expand </summary>
+## GitHub - General
+- **GitRepos.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/GitRepos)) (Type **Private**) (Stars **NA**)
+    - Summary of all Git repos
+- **Literature.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/Literature)) (Type **Private**) (Stars **NA**)
+    - Summary of literature since July 2023  
 - **roku.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/roku)) (Type **Private**) (Stars **NA**)
     - Admin info at Roku
 - **ads-reach.** *Lixun Zhang*. ([Repo](https://github.com/lixzhang/ads-reach)) (Type **Private**) (Stars **NA**)
     - First implementation of omni-reach-optimization    
-- **AIDemo.** *Lixun Zhang.* 
+- **AIDemo.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/AIDemo)) (Type **Private**) (Stars **NA**)
     - Using ChatGPT API to generate contents for AI demo at Roku
-
-</details>
+- **transformer-training.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/transformer-training)) (Type **Public**) (Stars **NA**)
+    - Train GPT from scratch using nanogpt data
 
 ## GitLab
 - **data-science-utils.** *Lixun Zhang.* ([Repo](https://gitlab.eng.roku.com/data-analytics/data-science-utils)) (Type **Public**) (Stars **1**)
@@ -36,14 +38,12 @@
     - Scripts for bitrate RL model
 - **bitrate-rl.** *Lixun Zhang.* ([Repo](https://gitlab.eng.roku.com/data-analytics/bitrate-rl)) (Type **Public**) (Stars **1**)
     - Pensieve repo    
-
-## Local - At Home
-
-
-## Local - At Work
-- **omni_reach_optimizer.** *Lixun Zhang.* 
-    - Implementation of the omni reach algorithms
-- **streamlit-project.** *Lixun Zhang.* 
+- **streamlit-project.** *Lixun Zhang.* ([Repo](https://gitlab.eng.roku.com/lzhang/streamlit)) (Type **Public**) (Stars **1**)
     - Streamlit project with plots for QA project
+- **omni_reach_optimizer.** *Lixun Zhang.* ([Repo](https://gitlab.eng.roku.com/lzhang/omni-reach)) (Type **Public**) (Stars **1**)
+    - Implementation of the omni reach algorithms
+
+
+
 
 
