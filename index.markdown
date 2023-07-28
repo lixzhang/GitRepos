@@ -31,6 +31,8 @@
     - Train GPT from scratch using nanogpt data
 
 ## GitLab
+- **dev.** *Lixun Zhang.* ([Repo](https://gitlab.eng.roku.com/lzhang/dev)) (Type **Public**) (Stars **1**)
+    - For development and testing purposes
 - **data-science-utils.** *Lixun Zhang.* ([Repo](https://gitlab.eng.roku.com/data-analytics/data-science-utils)) (Type **Public**) (Stars **1**)
     - Query templates
     - Pull data from and save data to hive
