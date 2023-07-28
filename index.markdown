@@ -15,6 +15,8 @@
 </details>
 
 ## GitHub - General
+- **dev.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/dev)) (Type **Private**) (Stars **NA**)
+    - For development and testing purposes
 - **GitRepos.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/GitRepos)) (Type **Private**) (Stars **NA**)
     - Summary of all Git repos
 - **Literature.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/Literature)) (Type **Private**) (Stars **NA**)
