@@ -17,15 +17,15 @@
 ## GitHub - General
 - **dev.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/dev)) (Type **Private**) (Stars **NA**)
     - For development and testing purposes
-- **GitRepos.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/GitRepos)) (Type **Private**) (Stars **NA**)
+- **doc-repos.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/GitRepos)) (Type **Private**) (Stars **NA**)
     - Summary of all Git repos
-- **Literature.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/Literature)) (Type **Private**) (Stars **NA**)
+- **doc-literature.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/Literature)) (Type **Private**) (Stars **NA**)
     - Summary of literature since July 2023  
 - **roku.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/roku)) (Type **Private**) (Stars **NA**)
     - Admin info at Roku
 - **ads-reach.** *Lixun Zhang*. ([Repo](https://github.com/lixzhang/ads-reach)) (Type **Private**) (Stars **NA**)
     - First implementation of omni-reach-optimization    
-- **AIDemo.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/AIDemo)) (Type **Private**) (Stars **NA**)
+- **ai-demo.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/AIDemo)) (Type **Private**) (Stars **NA**)
     - Using ChatGPT API to generate contents for AI demo at Roku
 - **transformer-training.** *Lixun Zhang.* ([Repo](https://github.com/lixzhang/transformer-training)) (Type **Public**) (Stars **NA**)
     - Train GPT from scratch using nanogpt data
